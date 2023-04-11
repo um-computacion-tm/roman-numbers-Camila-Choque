@@ -1,8 +1,6 @@
 import unittest
-from decimal_to_roman import
-decimal_to_roman
-from roman_to_decimal import
-roman_to_decimal
+from  decimal_to_roman import decimal_to_roman
+from roman_to_decimal import roman_to_decimal
 
 class TestDecimalToRoman(unittest.TestCase):
     def test_uno(self):
